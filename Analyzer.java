@@ -1,5 +1,6 @@
 public class Analyzer
 {
+// AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH THIS IS MY COMMENT
 
     // the methods below were referenced from https://learn.zybooks.com/zybook/UFLCOP3502ZhouFall2019 and stackoverflow.com
 
